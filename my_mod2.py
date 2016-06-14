@@ -11,6 +11,10 @@ import linecache
 from random import randrange
 
 
+def i_have_gas():
+    print("i need to blow it out my ass!")
+
+
 def get_uptime():
 	from datetime import timedelta
 	import platform

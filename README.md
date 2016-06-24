@@ -1,6 +1,3 @@
 # test1
-still pining for S...
 
-meanwhile....CODE!!
-
-i have gas
+messing with git to aid in fixing Brigitte's status bar

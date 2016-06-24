@@ -24,6 +24,8 @@ LOG = "/home/vic/.sauerbraten/sauer.vlog"
 maps = sauertools.maps
 aex = sauertools.aexfile
 
+TEST = 'yessiree bob!'
+
 D = {'LAST_MAP_PLAYED': "map",
      'RANDOM_MAP': "random",
      'CURRENT_MAP': 'current',
